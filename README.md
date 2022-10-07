@@ -1,5 +1,7 @@
 # e-commerce-sample.io
 
+PROJECT README
+
 Intro:
 
 The main idea of this project is to build a sample e-commerce frontend with React. It's not supposed to have backend related features but I have the intention of working on a database to simulate stock management right after I'm done with the frontend.
